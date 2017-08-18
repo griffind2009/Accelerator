@@ -1,0 +1,14 @@
+h1{text-align: center; margin-top: 5em;}
+
+div {text-align: center;}
+
+img.tips {width: 400px; height: 300px;}
+
+img.networking{width: 400px; height: 600px;}
+
+body{
+    background: url(../images/notepad.jpg) no-repeat;
+    background-size: cover;
+}
+
+p, details {padding-left: 2em;}
