@@ -1,0 +1,24 @@
+{
+  "name": "accelerator",
+  "version": "1.0.0",
+  "description": "For testing",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/griffind2009/Accelerator.git"
+  },
+  "author": "Domonique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/griffind2009/Accelerator/issues"
+  },
+  "homepage": "https://github.com/griffind2009/Accelerator#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
